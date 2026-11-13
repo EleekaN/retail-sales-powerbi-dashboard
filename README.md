@@ -30,15 +30,18 @@ To understand which month, categories and segment drives sales and profit and do
 1. Technology showed higher sales with 16.97% profit margin, but the office supplies with 2nd highest sales had 25.59% profit margin.
 2. East Zone had total sales of 2,71,72,858 which was highest compared to other zones.
 3. October to December recorded higher sales volume and lowest sales in March 2024.
-4. Products with zero discount maintained a 18.12% profit margin, however profit with discounts dropped the profit margin at 8.02%.
+4. Products with zero discount maintained a 18.12% profit margin, however overall profit with discounts dropped the profit margin at 8.02%.
 
 ## Recommendation
-- Discount should be applied strictly on select products if needed, else avoid.
-- Consider increasing the inventory in the last quarter.
-- Need to do more market research on the success of East Zone and what needs to be done for other zones.
-- Office supplies needs to be in stock always.
+- **Strict application of discounts on products.** Profit margin falls from 18.12% with no discounts to 16.45% with 30% discounts.
+- **Stock up before the peak season.** Sales in Q4 (Oct-Dec) are 24.26% higher than the rest of the year. Increase inventory for *Office Supplies* to avoid stock-outs.
+- **Identify what worked for East region and repeat it elsewhere.**  East leads with Rs 2,71,72,858.50 (26.46% of total sales). Review its top products, customer segments and test the same approach in weakest region.
+- **Keep Office supplies in stock always.** It has the highest profit margin 25.59% and 40.31% of orders. Set a minimum stock level so these items never run out.
+## Insights
+<img width="1122" height="661" alt="Insights" src="https://github.com/user-attachments/assets/0935e64b-f0f5-4c5f-b4e1-1644ea603d9c" />
 
 ## Dashboard Preview
+
 <img width="862" height="677" alt="Screenshot 2026-11-10 212106" src="https://github.com/user-attachments/assets/19f8cd66-00af-48b4-86cb-1dbfac31e8d8" />
 
 ## Tools
