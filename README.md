@@ -33,7 +33,7 @@ To understand which month, categories and segment drives sales and profit and do
 4. Products with zero discount maintained a 18.12% profit margin, however overall profit with discounts dropped the profit margin at 8.02%.
 
 ## Recommendation
-- **Strict application of discounts on products.** Profit margin falls from 18.12% with no discounts to 16.45% with 30% discounts.
+- **Strict application of discounts on products.** Profit margin falls from 18.12% with no discounts to -16.45% with 30% discounts.
 - **Stock up before the peak season.** Sales in Q4 (Oct-Dec) are 24.26% higher than the rest of the year. Increase inventory for *Office Supplies* to avoid stock-outs.
 - **Identify what worked for East region and repeat it elsewhere.**  East leads with Rs 2,71,72,858.50 (26.46% of total sales). Review its top products, customer segments and test the same approach in weakest region.
 - **Keep Office supplies in stock always.** It has the highest profit margin 25.59% and 40.31% of orders. Set a minimum stock level so these items never run out.
